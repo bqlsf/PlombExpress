@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.display{
+    display:flex;
+}
+.header{
+     width:100%;
+    height: 96px;
+    padding: 20px 7%;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+.Liensnavigation ul {
+display: flex;
+align-items: center;
+gap: 32px;
+list-style: none;
+}
+
+.Liensnavigation ul li a {
+text-decoration: none;
+}
+.bouton a{
+    
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    padding: 20px;
+    border-radius: 6px;
+    background-color: #FF6418;
+    color: white;
+}
+.hero{
+    background-color: #F3F7FA;
+}
+.Localisation{
+font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 13px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #0866C2;
+}
+.debut{
+    justify-content: space-around;
+}
+.promesses h1{
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+line-height: 112.00000000000001%;
+letter-spacing: -2.1px;
+color: #102A43;
+}
+.promesses p{
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 17px;
+line-height: 165%;
+letter-spacing: 0%;
+color: #486176;
+}
+.btndevis
+.btnservices{
+ align-items: center;
+    justify-content: center;
+}
+
+.btndevis{
+width: 218px;
+height: 54px;
+padding-right: 24px;
+padding-left: 24px;
+gap: 12px;
+angle: 0 deg;
+border-radius: 10px;
+background-color: #FF6418;
+}
+.btnservices{
+width: 142px;
+height: 54px;
+padding-right: 24px;
+padding-left: 24px;
+gap: 12px;
+angle: 0 deg;
+border-radius: 10px;
+border-width: 1px;
+background-color: #FFFFFF;
+}
+.images{
+    width: 588px;
+height: 464px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 24px;
+}
+.Engagement{
+    justify-content: space-around;
+    font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 14px;
+
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.services{
+    background-color: #FFFFFF;
+}
+.Présentationdesservices{
+    text-align: center;
+}
+.Présentationdesservices h6{
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 12px;
+line-height: 140%;
+letter-spacing: 1.8px;
+color: #0866C2;
+}
+.Présentationdesservices{
+font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 160%;
+letter-spacing: 0%;
+text-align: center;
+
+color: #102A43;
+}
+.cartedeservice{
+    padding : 25px;
+    justify-content: space-between;
+}
+.image img{
+    width: 100%;
+height: 100%;
+}
+.texte h4{
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 21px;
+line-height: 125%;
+letter-spacing: -0.5px;
+color: #102A43;
+
+}
+.texte pre{
+    font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 15px;
+line-height: 165%;
+letter-spacing: 0%;
+color: #486176;
+}
+.btnnoservices{
+   justify-content: center;
+   align-items: center;
+width: 239px;
+height: 54px;
+angle: 0 deg;
+border-radius: 10px;
+border-width: 1px;
+padding-right: 24px;
+padding-left: 24px;
+gap: 12px;
+border-radius: 10px;
+border-color:#DCE5EC ;
+border-width: 1px;
+
+}
+.btnnoservices a{
+color: #102A43;
+ font-family: Inter;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
